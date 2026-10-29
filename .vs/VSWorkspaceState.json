@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\ThreadDemo",
+    "\\src\\ThreadDemo\\ThreadDemo.Console",
+    "\\src\\ThreadDemo\\ThreadDemo.Domain"
+  ],
+  "SelectedNode": "\\src\\ThreadDemo\\ThreadDemo.Console\\ThreadDemo.Console.csproj",
+  "PreviewInSolutionExplorer": false
+}

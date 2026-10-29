@@ -1,0 +1,12 @@
+C:\Users\andrea.ruscelli\Desktop\Concurrent_Parallel_Programming-main\src\AsyncParallelDemo\AsyncParallelDemo.Domain\bin\Debug\net10.0\AsyncParallelDemo.Domain.deps.json
+C:\Users\andrea.ruscelli\Desktop\Concurrent_Parallel_Programming-main\src\AsyncParallelDemo\AsyncParallelDemo.Domain\bin\Debug\net10.0\AsyncParallelDemo.Domain.dll
+C:\Users\andrea.ruscelli\Desktop\Concurrent_Parallel_Programming-main\src\AsyncParallelDemo\AsyncParallelDemo.Domain\bin\Debug\net10.0\AsyncParallelDemo.Domain.pdb
+C:\Users\andrea.ruscelli\Desktop\Concurrent_Parallel_Programming-main\src\AsyncParallelDemo\AsyncParallelDemo.Domain\obj\Debug\net10.0\AsyncParallelDemo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andrea.ruscelli\Desktop\Concurrent_Parallel_Programming-main\src\AsyncParallelDemo\AsyncParallelDemo.Domain\obj\Debug\net10.0\AsyncParallelDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\andrea.ruscelli\Desktop\Concurrent_Parallel_Programming-main\src\AsyncParallelDemo\AsyncParallelDemo.Domain\obj\Debug\net10.0\AsyncParallelDemo.Domain.AssemblyInfo.cs
+C:\Users\andrea.ruscelli\Desktop\Concurrent_Parallel_Programming-main\src\AsyncParallelDemo\AsyncParallelDemo.Domain\obj\Debug\net10.0\AsyncParallelDemo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andrea.ruscelli\Desktop\Concurrent_Parallel_Programming-main\src\AsyncParallelDemo\AsyncParallelDemo.Domain\obj\Debug\net10.0\AsyncParallelDemo.Domain.sourcelink.json
+C:\Users\andrea.ruscelli\Desktop\Concurrent_Parallel_Programming-main\src\AsyncParallelDemo\AsyncParallelDemo.Domain\obj\Debug\net10.0\AsyncParallelDemo.Domain.dll
+C:\Users\andrea.ruscelli\Desktop\Concurrent_Parallel_Programming-main\src\AsyncParallelDemo\AsyncParallelDemo.Domain\obj\Debug\net10.0\refint\AsyncParallelDemo.Domain.dll
+C:\Users\andrea.ruscelli\Desktop\Concurrent_Parallel_Programming-main\src\AsyncParallelDemo\AsyncParallelDemo.Domain\obj\Debug\net10.0\AsyncParallelDemo.Domain.pdb
+C:\Users\andrea.ruscelli\Desktop\Concurrent_Parallel_Programming-main\src\AsyncParallelDemo\AsyncParallelDemo.Domain\obj\Debug\net10.0\ref\AsyncParallelDemo.Domain.dll
