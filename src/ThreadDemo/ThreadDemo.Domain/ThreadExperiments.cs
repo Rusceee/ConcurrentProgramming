@@ -50,7 +50,7 @@ public class ThreadExperiments
 
         void Increment()
         {
-            for (int i = 0; i <= iterations; i++)
+            for (int i = 0; i < iterations; i++)
             {
                 if(useLock)
                 {
