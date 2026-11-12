@@ -3,6 +3,8 @@
 
 public class ThreadExperiments
 {
+    private static int counter = 0;
+    private static object gate = new();
     public void RunSequential()
     {
         Work("A");
@@ -17,7 +19,9 @@ public class ThreadExperiments
         Console.WriteLine("Starting threads....");
         // non deterministic execution of threads
         threadA.Start();
+        
         threadB.Start();
+        Thread.Sleep(5000);
         Console.WriteLine("This line is written by the main thread");
         // Wait for the threads to finish
         threadA.Join();
@@ -45,31 +49,10 @@ public class ThreadExperiments
     // secondo test: i thread contano sulla stessa variabile con lock, quindi il risultato finale e' deterministico
     public (int expected, int actual) RunCounter(bool useLock, int iterations=100_000) 
     {
-        int counter = 0;
-        object gateLock = new();
+        counter = 0;
 
-        void Increment()
-        {
-            for (int i = 0; i < iterations; i++)
-            {
-                if(useLock)
-                {
-                    // sezione critica
-                    lock(gateLock)
-                    {
-                        counter += 1;
-                    }
-                }
-                else
-                {
-                    counter += 1;
-                }
-                
-            }
-        }
-
-        Thread Thread1 = new(Increment);
-        Thread Thread2 = new(Increment);
+        Thread Thread1 = new Thread(() => Increment(iterations, useLock));
+        Thread Thread2 = new Thread(() => Increment(iterations, useLock));
 
         Thread1.Start();
         Thread2.Start();
@@ -80,7 +63,25 @@ public class ThreadExperiments
         return (expected: iterations * 2, actual: counter);
     }
 
-   
+    private static void Increment(int iterations, bool useLock)
+    {
+        for (int i = 0; i < iterations; i++)
+        {
+            if (useLock)
+            {
+                // sezione critica
+                lock (gate)
+                {
+                    counter += 1;
+                }
+            }
+            else
+            {
+                counter += 1;
+            }
+
+        }
+    }
     // Funzione per simulare del lavoro
     private static void Work(string name)
     {

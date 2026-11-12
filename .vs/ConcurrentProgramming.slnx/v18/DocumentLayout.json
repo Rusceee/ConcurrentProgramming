@@ -18,20 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\andrea.ruscelli\\Desktop\\Concurrent_Parallel_Programming-main\\src\\ThreadDemo\\ThreadDemo.Console\\Program.cs",
-              "RelativeDocumentMoniker": "src\\ThreadDemo\\ThreadDemo.Console\\Program.cs",
-              "ToolTip": "C:\\Users\\andrea.ruscelli\\Desktop\\Concurrent_Parallel_Programming-main\\src\\ThreadDemo\\ThreadDemo.Console\\Program.cs",
-              "RelativeToolTip": "src\\ThreadDemo\\ThreadDemo.Console\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T11:12:20.268Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,9 +28,22 @@
               "RelativeDocumentMoniker": "src\\ThreadDemo\\ThreadDemo.Domain\\ThreadExperiments.cs",
               "ToolTip": "C:\\Users\\andrea.ruscelli\\Desktop\\Concurrent_Parallel_Programming-main\\src\\ThreadDemo\\ThreadDemo.Domain\\ThreadExperiments.cs",
               "RelativeToolTip": "src\\ThreadDemo\\ThreadDemo.Domain\\ThreadExperiments.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAqwDQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-29T11:12:10.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andrea.ruscelli\\Desktop\\Concurrent_Parallel_Programming-main\\src\\ThreadDemo\\ThreadDemo.Console\\Program.cs",
+              "RelativeDocumentMoniker": "src\\ThreadDemo\\ThreadDemo.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\andrea.ruscelli\\Desktop\\Concurrent_Parallel_Programming-main\\src\\ThreadDemo\\ThreadDemo.Console\\Program.cs",
+              "RelativeToolTip": "src\\ThreadDemo\\ThreadDemo.Console\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T11:12:20.268Z",
               "EditorCaption": ""
             }
           ]

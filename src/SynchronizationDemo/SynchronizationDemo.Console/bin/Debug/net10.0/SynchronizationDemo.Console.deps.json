@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SynchronizationDemo.Console/1.0.0": {
+        "dependencies": {
+          "Labs.Console": "1.0.0",
+          "SynchronizationDemo.Domain": "1.0.0"
+        },
+        "runtime": {
+          "SynchronizationDemo.Console.dll": {}
+        }
+      },
+      "Labs.Console/1.0.0": {
+        "runtime": {
+          "Labs.Console.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SynchronizationDemo.Domain/1.0.0": {
+        "runtime": {
+          "SynchronizationDemo.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SynchronizationDemo.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Labs.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SynchronizationDemo.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

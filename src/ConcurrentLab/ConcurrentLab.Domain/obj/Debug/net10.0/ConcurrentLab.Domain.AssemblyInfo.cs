@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConcurrentLab.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+290cf420ff38fc5e31e67ebfb4a9074acea88535")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+847d9d4d5f44d7e4b48b8ee954558d741f21bb68")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConcurrentLab.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConcurrentLab.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
