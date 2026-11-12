@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\andrea.ruscelli\\Desktop\\Concurrent_Parallel_Programming-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3B93940-F1FD-75CB-BF0B-A012BFDE8920}|src\\ThreadDemo\\ThreadDemo.Domain\\ThreadDemo.Domain.csproj|c:\\users\\andrea.ruscelli\\desktop\\concurrent_parallel_programming-main\\src\\threaddemo\\threaddemo.domain\\threadexperiments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3B93940-F1FD-75CB-BF0B-A012BFDE8920}|src\\ThreadDemo\\ThreadDemo.Domain\\ThreadDemo.Domain.csproj|solutionrelative:src\\threaddemo\\threaddemo.domain\\threadexperiments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63D95E9B-E8BB-FF60-661A-8C8194E1D77D}|src\\SynchronizationDemo\\SynchronizationDemo.Console\\SynchronizationDemo.Console.csproj|c:\\users\\andrea.ruscelli\\desktop\\concurrent_parallel_programming-main\\src\\synchronizationdemo\\synchronizationdemo.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D95E9B-E8BB-FF60-661A-8C8194E1D77D}|src\\SynchronizationDemo\\SynchronizationDemo.Console\\SynchronizationDemo.Console.csproj|solutionrelative:src\\synchronizationdemo\\synchronizationdemo.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{299B31F5-709C-1B05-40D0-88E9BA8BD14C}|src\\ThreadDemo\\ThreadDemo.Console\\ThreadDemo.Console.csproj|c:\\users\\andrea.ruscelli\\desktop\\concurrent_parallel_programming-main\\src\\threaddemo\\threaddemo.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{299B31F5-709C-1B05-40D0-88E9BA8BD14C}|src\\ThreadDemo\\ThreadDemo.Console\\ThreadDemo.Console.csproj|solutionrelative:src\\threaddemo\\threaddemo.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DCD95C3-4D10-4492-6D74-3517D7311B78}|src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SynchronizationDemo.Domain.csproj|c:\\users\\andrea.ruscelli\\desktop\\concurrent_parallel_programming-main\\src\\synchronizationdemo\\synchronizationdemo.domain\\semaphoreexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DCD95C3-4D10-4492-6D74-3517D7311B78}|src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SynchronizationDemo.Domain.csproj|solutionrelative:src\\synchronizationdemo\\synchronizationdemo.domain\\semaphoreexperiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ThreadExperiments.cs",
-              "DocumentMoniker": "C:\\Users\\andrea.ruscelli\\Desktop\\Concurrent_Parallel_Programming-main\\src\\ThreadDemo\\ThreadDemo.Domain\\ThreadExperiments.cs",
-              "RelativeDocumentMoniker": "src\\ThreadDemo\\ThreadDemo.Domain\\ThreadExperiments.cs",
-              "ToolTip": "C:\\Users\\andrea.ruscelli\\Desktop\\Concurrent_Parallel_Programming-main\\src\\ThreadDemo\\ThreadDemo.Domain\\ThreadExperiments.cs",
-              "RelativeToolTip": "src\\ThreadDemo\\ThreadDemo.Domain\\ThreadExperiments.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAswBcAAAAZAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andrea.ruscelli\\Desktop\\Concurrent_Parallel_Programming-main\\src\\SynchronizationDemo\\SynchronizationDemo.Console\\Program.cs",
+              "RelativeDocumentMoniker": "src\\SynchronizationDemo\\SynchronizationDemo.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\andrea.ruscelli\\Desktop\\Concurrent_Parallel_Programming-main\\src\\SynchronizationDemo\\SynchronizationDemo.Console\\Program.cs",
+              "RelativeToolTip": "src\\SynchronizationDemo\\SynchronizationDemo.Console\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T11:12:10.411Z",
+              "WhenOpened": "2026-11-12T11:48:37.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\andrea.ruscelli\\Desktop\\Concurrent_Parallel_Programming-main\\src\\ThreadDemo\\ThreadDemo.Console\\Program.cs",
-              "RelativeDocumentMoniker": "src\\ThreadDemo\\ThreadDemo.Console\\Program.cs",
-              "ToolTip": "C:\\Users\\andrea.ruscelli\\Desktop\\Concurrent_Parallel_Programming-main\\src\\ThreadDemo\\ThreadDemo.Console\\Program.cs",
-              "RelativeToolTip": "src\\ThreadDemo\\ThreadDemo.Console\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABNAAAAAAAAAA==",
+              "Title": "SemaphoreExperiment.cs",
+              "DocumentMoniker": "C:\\Users\\andrea.ruscelli\\Desktop\\Concurrent_Parallel_Programming-main\\src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SemaphoreExperiment.cs",
+              "RelativeDocumentMoniker": "src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SemaphoreExperiment.cs",
+              "ToolTip": "C:\\Users\\andrea.ruscelli\\Desktop\\Concurrent_Parallel_Programming-main\\src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SemaphoreExperiment.cs",
+              "RelativeToolTip": "src\\SynchronizationDemo\\SynchronizationDemo.Domain\\SemaphoreExperiment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T11:12:20.268Z",
+              "WhenOpened": "2026-11-12T11:47:49.684Z",
               "EditorCaption": ""
             }
           ]
