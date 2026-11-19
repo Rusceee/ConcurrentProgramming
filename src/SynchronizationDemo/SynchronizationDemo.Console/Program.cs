@@ -2,7 +2,7 @@
 
 
 var semaforo = new SemaphoreExperiment();
-
+var producersConsumers = new ProcucerConsumerExperiment();
 bool termina = false;
 
 while (!termina)
@@ -20,6 +20,7 @@ while (!termina)
             break;
 
         case "2":
+            producersConsumers.Run();
             break;
 
         case "3":
